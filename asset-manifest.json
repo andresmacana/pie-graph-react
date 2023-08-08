@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d4c524d.css",
-    "main.js": "/static/js/main.a6fedff6.js",
-    "index.html": "/index.html",
-    "main.9d4c524d.css.map": "/static/css/main.9d4c524d.css.map",
-    "main.a6fedff6.js.map": "/static/js/main.a6fedff6.js.map"
+    "main.css": "/pie-graph-react/static/css/main.9d4c524d.css",
+    "main.js": "/pie-graph-react/static/js/main.a6fedff6.js",
+    "index.html": "/pie-graph-react/index.html",
+    "main.9d4c524d.css.map": "/pie-graph-react/static/css/main.9d4c524d.css.map",
+    "main.a6fedff6.js.map": "/pie-graph-react/static/js/main.a6fedff6.js.map"
   },
   "entrypoints": [
     "static/css/main.9d4c524d.css",
