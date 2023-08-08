@@ -79,7 +79,7 @@ const PiePlot = () => {
           <div className="chart-container">
             <Plot
               data={data}
-              layout={{ height: 400, width: 550, title: "Expenses" }}
+              layout={{ height: 400, width: 500, title: "Expenses" }}
               config={chartConfig}
             />
           </div>

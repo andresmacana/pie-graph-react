@@ -26,9 +26,9 @@
 
 @media (max-width: 767px) {
   .chart-container {
-    max-height: 300px; /* Adjust the maximum height as needed */
+    max-height: 300px;
   }
   .custom-summary {
-    margin-top: 20px; /* Add margin to create separation from the chart */
+    margin-top: 20px;
   }
 }
