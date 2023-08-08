@@ -41,6 +41,10 @@ const PiePlot = () => {
     },
   ];
 
+  const chartConfig = {
+    responsive: true, // Add the responsive configuration
+  };
+
   return (
     <div className="container mt-5 custom-container">
       <div className="row">
