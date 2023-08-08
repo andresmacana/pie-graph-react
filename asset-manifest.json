@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/pie-graph-react/static/css/main.9d4c524d.css",
-    "main.js": "/pie-graph-react/static/js/main.a6fedff6.js",
+    "main.css": "/pie-graph-react/static/css/main.3de68dd3.css",
+    "main.js": "/pie-graph-react/static/js/main.1bcd8f32.js",
     "index.html": "/pie-graph-react/index.html",
-    "main.9d4c524d.css.map": "/pie-graph-react/static/css/main.9d4c524d.css.map",
-    "main.a6fedff6.js.map": "/pie-graph-react/static/js/main.a6fedff6.js.map"
+    "main.3de68dd3.css.map": "/pie-graph-react/static/css/main.3de68dd3.css.map",
+    "main.1bcd8f32.js.map": "/pie-graph-react/static/js/main.1bcd8f32.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d4c524d.css",
-    "static/js/main.a6fedff6.js"
+    "static/css/main.3de68dd3.css",
+    "static/js/main.1bcd8f32.js"
   ]
 }
