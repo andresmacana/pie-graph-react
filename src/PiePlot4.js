@@ -41,8 +41,12 @@ const PiePlot = () => {
     },
   ];
 
+  /* const chartConfig = {
+    responsive: true,
+  }; */
+
   const chartConfig = {
-    responsive: true, // Add the responsive configuration
+    responsive: true,
   };
 
   return (
@@ -76,10 +80,12 @@ const PiePlot = () => {
         </div>
         <div className="col-md-6">
           <h3>Expenses</h3>
-          <Plot
-            data={data}
-            layout={{ height: 400, width: "100%", title: "Expenses" }}
-          />
+          <div className="chart-container">
+            <Plot
+              data={data}
+              layout={{ height: 400, width: "100%", title: "Expenses" }}
+            />
+          </div>
         </div>
       </div>
       <div className="row mt-5">
