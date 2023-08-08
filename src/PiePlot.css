@@ -1,0 +1,20 @@
+.custom-container {
+  background-color: #afb1b4;
+}
+
+.custom-summary {
+  background-color: #205cf4;
+  font-weight: bolder;
+  color: rgb(231, 249, 120);
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.custom-footer {
+  background-color: #356cf5;
+  font-weight: bolder;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
