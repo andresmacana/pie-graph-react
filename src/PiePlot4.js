@@ -9,6 +9,7 @@ const PiePlot = () => {
     Rent: 200,
     Insurances: 100,
     Food: 300,
+    Services: 240,
     Transport: 150,
     Car_lease: 354,
     School: 600,
